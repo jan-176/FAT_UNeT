@@ -1,0 +1,16 @@
+{
+    "model_name": "TranAD",
+    "dataset": "SMD",
+    "entity": "machine-1",
+    "retrain": "True",
+    "shuffle": "True",
+    "val": 1,
+    "mlflow_experiment": "Experiment_3",
+    "n_epochs": 50,
+    "hyp_lr": 0.00014897988937771987,
+    "hyp_criterion": "MSE",
+    "hyp_percentage": 0.2,
+    "hyp_q": 0.000255847790728344,
+    "hyp_level": 0.9907782310357192,
+    "hyp_delta": 1.0
+}

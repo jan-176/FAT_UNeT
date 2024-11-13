@@ -1,0 +1,17 @@
+{
+    "model_name": "DTAAD",
+    "dataset": "TIKI",
+    "entity": "web-6495d5f5f9",
+    "retrain": "True",
+    "shuffle": "True",
+    "val": 1,
+    "mlflow_experiment": "Experiment_2",
+    "n_epochs": 50,
+    "hyp_lr": 0.001,
+    "hyp_criterion": "MSE",
+    "hyp_percentage": 1.0,
+    "hyp_lm_d0": 0.99995,
+    "hyp_lm_d1": 1.06,
+    "hyp_delta": 1.0,
+    "scaler": "min_max"
+}

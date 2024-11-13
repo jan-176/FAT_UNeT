@@ -1,0 +1,16 @@
+{
+    "model_name": "DTAAD",
+    "dataset": "SMD",
+    "entity": "machine-1",
+    "retrain": "True",
+    "shuffle": "True",
+    "val": 1,
+    "mlflow_experiment": "Experiment_3",
+    "n_epochs": 50,
+    "hyp_lr": 0.0002645242004615146,
+    "hyp_criterion": "LogCosh",
+    "hyp_percentage": 0.2,
+    "hyp_q": 0.00025019930569089967,
+    "hyp_level": 0.9777409199908212,
+    "hyp_delta": 1.0
+}

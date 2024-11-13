@@ -1,0 +1,16 @@
+{
+    "model_name": "FAT",
+    "dataset": "MSL",
+    "entity": "C-1",
+    "retrain": "True",
+    "shuffle": "False",
+    "val": 0,
+    "mlflow_experiment": "Experiment_1",
+    "n_epochs": 5,
+    "hyp_lr": 0.005,
+    "hyp_criterion": "MSE",
+    "hyp_percentage": 1.0,
+    "hyp_lm_d0": 0.999,
+    "hyp_lm_d1": 1.04,
+    "hyp_delta": 1.0
+}
