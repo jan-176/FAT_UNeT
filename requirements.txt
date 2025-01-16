@@ -3,5 +3,5 @@ torch==2.0.0
 torchvision==0.15.0
 torchaudio==2.0.0
 tqdm
-mlflow==2.14.3
+mlflow==2.16.0
 torchinfo==1.8.0
