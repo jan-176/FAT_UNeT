@@ -1,5 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Hochschule_Amberg-Weiden_Logo_2013.svg" alt="Image 1" width="150"/>
 
+[![DOI](https://zenodo.org/badge/887814355.svg)](https://doi.org/10.5281/zenodo.14670943)
+
 # Master's Thesis 
 
 This repository supplements my master's thesis "Unsupervised Anomaly Detection in Multivariate Time Series Data using Deep Learning". This is a refactored version of the code used to obtain the results in the master's thesis for ease of use. The code is provided as-is and serves as starting point for further research. Due to limited resources, I am unable to provide support on any issues you may experience with installing or running the tool.
